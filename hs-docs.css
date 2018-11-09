@@ -1,26 +1,28 @@
-#docsSearch{
-  background: #f5f2ec;
-  border-top: : 1px solid #DFDFDF;
+body {
+  font-family: poynter-gothic-text, poyntergothictext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+#docsSearch {
+    background: #00d477;
+    border: 0;
+    padding: 8em 0;
 }
 #searchBar .search-query {
 	background: #fff;
 	border-color: transparent;
 	box-shadow: none;
-	color: #777;
+	color: #00d477;
 }
 #searchBar button {
-	background: #19a974;
-	border-color: transparent;
-	color: #fff;
+    background: rgba(0,0,0,0.8);
+    border-color: transparent;
+    color: #fff;
+    text-shadow: none;
 }
 #searchBar button:hover {
-  background: #19a974;
-	border-color: transparent;
-	color: #fff;
+  background: background: rgba(0,0,0,0.8);
 }
-.contentWrapper{
-  border-radius: .25rem;
-}
+
 .navbar .brand img{
   width: 150px;
 }
