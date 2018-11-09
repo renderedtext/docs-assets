@@ -1,1 +1,26 @@
-
+#docsSearch{
+  background: #f5f2ec;
+  border-top: : 1px solid #DFDFDF;
+}
+#searchBar .search-query {
+	background: #fff;
+	border-color: transparent;
+	box-shadow: none;
+	color: #777;
+}
+#searchBar button {
+	background: #19a974;
+	border-color: transparent;
+	color: #fff;
+}
+#searchBar button:hover {
+  background: #19a974;
+	border-color: transparent;
+	color: #fff;
+}
+.contentWrapper{
+  border-radius: .25rem;
+}
+.navbar .brand img{
+  width: 150px;
+}
