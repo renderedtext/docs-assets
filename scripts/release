@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# 1. Move objects to release directory
+
+sha=$(git rev-parse --short HEAD)
+release_dir=release-$sha
+mkdir $release_dir
+cp -R ./ $release_dir/
+
+# 2. Upload new release
+
+bucket="public-assets"
+gsutil cp -r $release_dir gs://$bucket
+
+# 3. Grant Read access over the Internet
+
+gsutil acl -R ch -u AllUsers:R gs://$bucket/$release_dir
+
+# 4. List new public links
+echo "____"
+echo "Replace public links with the following:"
+gsutil ls -r gs://$bucket/$release_dir | sed 's/gs:\//https:\/\/storage.googleapis.com/'
