@@ -1,16 +1,17 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+bucket="semaphore-public-assets"
+
 # 1. Move objects to release directory
 
 sha=$(git rev-parse --short HEAD)
 release_dir=release-$sha
 mkdir $release_dir
-cp -R ./ $release_dir/
+cp -R public/* $release_dir/
 
 # 2. Upload new release
 
-bucket="public-assets"
 gsutil cp -r $release_dir gs://$bucket
 
 # 3. Grant Read access over the Internet
