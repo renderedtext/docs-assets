@@ -3,22 +3,28 @@ set -euo pipefail
 
 bucket="semaphore-public-assets"
 
-# 1. Move objects to release directory
+# 1. Upload new release
 
-sha=$(git rev-parse --short HEAD)
-release_dir=release-$sha
-mkdir $release_dir
-cp -R public/* $release_dir/
+gsutil -h "Cache-Control:no-cache, max-age=0" cp -r public gs://$bucket
 
-# 2. Upload new release
+# 2. Grant Read access over the Internet
 
-gsutil cp -r $release_dir gs://$bucket
+gsutil acl -R ch -u AllUsers:R gs://$bucket/public
 
-# 3. Grant Read access over the Internet
+# 3. Update index.html
+touch index.html
+echo "<html>" >> index.html
+echo "<head></head>" >> index.html
+echo "<body>" >> index.html
+echo "<h1>Public Assets</h1>" >> index.html
+gsutil ls -r gs://semaphore-public-assets/public | sed 's/gs:\//https:\/\/storage.googleapis.com/' | tail -n +2 | while read -r line; do echo "<a href='$line'>$line</a>"; done >> index.html
+echo "</body>" >> index.html
+echo "</html>" >> index.html
 
-gsutil acl -R ch -u AllUsers:R gs://$bucket/$release_dir
 
-# 4. List new public links
-echo "____"
-echo "Replace public links with the following:"
-gsutil ls -r gs://$bucket/$release_dir | sed 's/gs:\//https:\/\/storage.googleapis.com/'
+gsutil -h "Cache-Control:no-cache, max-age=0" cp index.html gs://$bucket
+gsutil acl -R ch -u AllUsers:R gs://$bucket/
+
+rm index.html
+
+echo "Index of public assets -> https://storage.googleapis.com/semaphore-public-assets/index.html"
