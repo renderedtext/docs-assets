@@ -1,0 +1,19 @@
+version: v1.0
+name: First pipeline example
+agent:
+  machine:
+    type: e1-standard-2
+    os_image: ubuntu1804
+
+blocks:
+  - name: "Upload assets"
+    task:
+      secrets:
+      - name: s2prod-gce
+
+      jobs:
+      - name: Release
+        commands:
+          - checkout
+          - ./scripts/set-up-gcloud
+          - ./scripts/release
