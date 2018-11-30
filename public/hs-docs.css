@@ -1,0 +1,210 @@
+body, input, button, textarea, select {
+  font-family: poynter-gothic-text, poyntergothictext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.navbar .navbar-inner {
+  padding: 1em;
+}
+
+.navbar .btn-navbar .icon-bar {
+  background: #fff;
+}
+
+.navbar .nav li a {
+  font-size: 18px;
+  color: #a0ffb5;
+}
+
+#docsSearch {
+    background: #00d477;
+    border-top: 1px solid rgba(0,0,0,0.1);
+    border-bottom: 0;
+    padding: 8em 0;
+
+    background-image: url(https://dl.dropbox.com/s/cttztio2xy3zej4/docs-search-bg.svg);
+    background-repeat: no-repeat;
+    background-position: center 25px;
+}
+#searchBar .search-query {
+	background: #fff;
+	border-color: transparent;
+	box-shadow: rgba(0, 0, 0, 0.25) 0px 8px 40px 3px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+	color: #16171d;
+}
+#searchBar button {
+    background: rgba(0,0,0,0.8);
+    border-color: transparent;
+    color: #fff;
+    text-shadow: none;
+}
+#searchBar button:hover {
+  background: rgba(0,0,0,1);
+}
+
+#sidebar form .search-query {
+  box-shadow: none;
+}
+
+#fullArticle p, #fullArticle ul, #fullArticle ol, #fullArticle li, #fullArticle div, #fullArticle blockquote, #fullArticle dd, #fullArticle table {
+  font-size: 18px;
+}
+
+#fullArticle pre, #fullArticle code {
+  font-size: 14px;
+  font-family: Consolas,Menlo,monospace;
+}
+
+#fullArticle pre {
+  padding: 10px 16px;
+  color: #494956;
+  white-space: pre;
+  overflow: auto;
+  word-wrap: normal;
+}
+
+pre code {
+  white-space: pre !important;
+  overflow: auto;
+}
+
+#fullArticle ul {
+  margin: 12px 0 12px 24px;
+}
+
+.contentWrapper h1 {
+  font-weight: bold;
+}
+
+.articleList li {
+  font-size: 18px;
+  margin: 1em 0;
+}
+
+.category-list {
+  text-align: center;
+}
+
+.category {
+  text-decoration: none;
+}
+
+.category-list .category {
+  border: 0;
+  background: #fff;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,.16), 0 0 0 1px rgba(0,0,0,.08);
+}
+
+.category-list .category:hover {
+  background-color: #fff;
+  background-repeat: no-repeat;
+  background-position: center 30px;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,.16), 0 0 0 1px rgba(0,0,0,.2);
+}
+
+.category-list .category {
+  background-repeat: no-repeat;
+  background-position: center 30px;
+  min-height: 260px;
+}
+
+#category-56 { background-image: url(https://dl.dropbox.com/s/41d8bqsnb180ukl/docs-guided-tour.svg); }
+#category-59 { background-image: url(https://dl.dropbox.com/s/0hfolpmewvhm86y/docs-use-cases.svg); }
+#category-58 { background-image: url(https://dl.dropbox.com/s/g8enk3rquowx41x/docs-programming-languages.svg); }
+#category-57 { background-image: url(https://dl.dropbox.com/s/n80lst3ok52dkzz/docs-environment.svg); }
+#category-48 { background-image: url(https://dl.dropbox.com/s/hszqsk6k0e358p9/docs-reference.svg); }
+
+.category-list .category p {
+  color: #7c7888;
+  font-size: 14px;
+}
+
+.category-list h3 {
+  padding-top: 180px;
+}
+
+.category-list .category .article-count {
+  display: none;
+}
+
+#sidebar h3 {
+  text-transform: none;
+  font-size: 18px;
+}
+
+#sidebar .nav-list a {
+  color: #7c7888;
+  font-size: 18px;
+}
+
+footer p {
+  font-size: 14px;
+  color: #7c7888;
+}
+
+footer p a {
+  color: #7c7888;
+}
+
+#sbContact {
+  color: #7c7888;
+}
+
+.navbar .brand img{
+  width: 150px;
+}
+
+.contentWrapper {
+  border: 0;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,.16), 0 0 0 1px rgba(0,0,0,.08);
+}
+
+.articleFoot p, .articleFoot time {
+  font-family: poynter-gothic-text, poyntergothictext,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  color: #7c7888;
+}
+
+pre {
+  background-color: #f0f0f5;
+  border: 0;
+}
+
+#contactModal .control-label {
+  font-size: 18px;
+}
+
+#contactModal h2, .abuse h2 {
+  background-color: #f0f0f5;
+}
+
+.form-search input, .form-inline input, .form-horizontal input, .form-search textarea, .form-inline textarea, .form-horizontal textarea, .form-search select, .form-inline select, .form-horizontal select, .form-search .help-inline, .form-inline .help-inline, .form-horizontal .help-inline, .form-search .uneditable-input, .form-inline .uneditable-input, .form-horizontal .uneditable-input, .form-search .input-prepend, .form-inline .input-prepend, .form-horizontal .input-prepend, .form-search .input-append, .form-inline .input-append, .form-horizontal .input-append {
+  font-size: 18px;
+  padding: 8px;
+}
+
+#contactModal input[type=file], #contactForm input[type=file], .abuse input[type=file] {
+  padding: 6px 0 0;
+  font-size: 14px;
+  color: #7c7888;
+}
+
+button.btn, input[type=submit].btn {
+  background: #3F51B5;
+  text-shadow: none;
+  border: 0;
+  color: white;
+  padding: 12px 24px;
+}
+
+button.btn:hover, input[type=submit].btn:hover {
+  background: #303F9F;
+}
+
+textarea:focus, input:focus, input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, input[type=datetime-local]:focus, input[type=date]:focus, input[type=month]:focus, input[type=time]:focus, input[type=week]:focus, input[type=number]:focus, input[type=email]:focus, input[type=url]:focus, input[type=search]:focus, input[type=tel]:focus, input[type=color]:focus, .uneditable-input:focus {
+  border-color: rgba(34, 63, 220, 0.7);
+}
+
+#sidebar form .search-query:focus, #sidebar form .search-query:focus:invalid {
+  border-color: rgba(34, 63, 220, 0.7);
+}

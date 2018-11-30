@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="220px" height="150px" viewBox="0 0 220 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>docs-programming-languages</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="docs-programming-languages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M159.026497,43.2346285 C147.304493,43.3987092 98.9394832,40.6660571 73.2352193,40.9482759 C62.264809,41.0680548 26.6985043,37.4024918 27.794121,63.6554053 C28.6245985,83.5764442 48.5703009,85.6207778 57.8446965,85.3664527 C70.9230733,85.0054751 128.007018,88.8602926 147.969155,87.4721698 C162.009483,86.4975304 193.642918,91.4199516 190.886347,60.4185424 C189.226487,41.7477985 168.635055,43.1000823 159.026497,43.2346285 Z" id="Fill-5" fill="#E4E6EF" transform="translate(109.412464, 64.305005) rotate(2.000000) translate(-109.412464, -64.305005) "></path>
+        <path d="M88.5063047,116.475332 C83.3379952,118.510431 77.2685933,119.664249 70.2980991,119.936788 L70.2980978,119.936755 C69.7462529,119.958331 69.281403,119.528464 69.2598265,118.976619 C69.2468734,118.645328 69.3989656,118.329156 69.6658858,118.132496 C73.8263066,115.067203 77.2708617,111.772123 79.9995512,108.247254 C76.2087419,103.020693 74,96.7467913 74,90 C74,71.7746033 90.117749,57 110,57 C129.882251,57 146,71.7746033 146,90 C146,108.225397 129.882251,123 110,123 C101.943299,123 94.5047437,120.573953 88.5063047,116.475332 Z" id="Combined-Shape" stroke="#2F313B" stroke-width="2" fill="#FFFFFF" stroke-linejoin="round"></path>
+        <rect id="Rectangle-47-Copy-62" fill="#2F313B" x="102" y="62" width="9" height="2"></rect>
+        <rect id="Rectangle-47-Copy-60" fill="#2F313B" x="116" y="97" width="14" height="2"></rect>
+        <rect id="Rectangle-47-Copy-61" fill="#2F313B" x="132" y="97" width="13" height="2"></rect>
+        <rect id="Rectangle-47-Copy-59" fill="#2F313B" x="113" y="62" width="6" height="2"></rect>
+        <rect id="Rectangle-47-Copy-58" fill="#2F313B" x="121" y="62" width="10" height="2"></rect>
+        <rect id="Rectangle-47-Copy-57" fill="#2F313B" x="106" y="67" width="7" height="2"></rect>
+        <rect id="Rectangle-47-Copy-56" fill="#2F313B" x="115" y="67" width="11" height="2"></rect>
+        <rect id="Rectangle-47-Copy-55" fill="#2F313B" x="128" y="67" width="9" height="2"></rect>
+        <rect id="Rectangle-47-Copy-54" fill="#2F313B" x="106" y="102" width="17" height="2"></rect>
+        <rect id="Rectangle-47-Copy-53" fill="#2F313B" x="125" y="102" width="8" height="2"></rect>
+        <rect id="Rectangle-47-Copy-64" fill="#2F313B" x="135" y="102" width="8" height="2"></rect>
+        <rect id="Rectangle-47-Copy-52" fill="#2F313B" x="106" y="82" width="15" height="2"></rect>
+        <rect id="Rectangle-47-Copy-51" fill="#2F313B" x="123" y="82" width="11" height="2"></rect>
+        <rect id="Rectangle-47-Copy-63" fill="#2F313B" x="136" y="82" width="9" height="2"></rect>
+        <rect id="Rectangle-47-Copy-68" fill="#2F313B" x="106" y="117" width="13" height="2"></rect>
+        <rect id="Rectangle-47-Copy-67" fill="#2F313B" x="121" y="117" width="8" height="2"></rect>
+        <rect id="Rectangle-47-Copy-50" fill="#2F313B" x="111" y="72" width="12" height="2"></rect>
+        <rect id="Rectangle-47-Copy-49" fill="#2F313B" x="125" y="72" width="16" height="2"></rect>
+        <rect id="Rectangle-47-Copy-48" fill="#2F313B" x="116" y="92" width="8" height="2"></rect>
+        <rect id="Rectangle-47-Copy-65" fill="#2F313B" x="140" y="92" width="5" height="2"></rect>
+        <rect id="Rectangle-47-Copy-47" fill="#2F313B" x="126" y="92" width="12" height="2"></rect>
+        <rect id="Rectangle-47-Copy-46" fill="#2F313B" x="102" y="77" width="13" height="2"></rect>
+        <rect id="Rectangle-47-Copy-45" fill="#2F313B" x="131" y="77" width="12" height="2"></rect>
+        <rect id="Rectangle-47-Copy-44" fill="#2F313B" x="117" y="77" width="12" height="2"></rect>
+        <rect id="Rectangle-47-Copy-37" fill="#2F313B" x="102" y="107" width="13" height="2"></rect>
+        <rect id="Rectangle-47-Copy-36" fill="#2F313B" x="131" y="107" width="9" height="2"></rect>
+        <rect id="Rectangle-47-Copy-35" fill="#2F313B" x="117" y="107" width="12" height="2"></rect>
+        <rect id="Rectangle-47-Copy-34" fill="#2F313B" x="106" y="112" width="19" height="2"></rect>
+        <rect id="Rectangle-47-Copy-33" fill="#2F313B" x="127" y="112" width="9" height="2"></rect>
+        <rect id="Rectangle-47-Copy-30" fill="#2F313B" x="132" y="87" width="13" height="2"></rect>
+        <rect id="Rectangle-47-Copy-29" fill="#2F313B" x="111" y="87" width="12" height="2"></rect>
+        <rect id="Rectangle-47-Copy-31" fill="#2F313B" x="125" y="87" width="5" height="2"></rect>
+    </g>
+</svg>

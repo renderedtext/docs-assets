@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="220px" height="150px" viewBox="0 0 220 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>docs-use-cases</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="docs-use-cases" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M72.2246999,39.7931469 C49.5478125,55.2294795 26.0612495,95.9094 42.1866095,116.642006 C52.5102954,129.914329 73.9010448,134.937088 86.4302026,113.108768 C129.323716,38.3796153 177.846317,80.8533788 181.670458,44.5024668 C184.663439,16.0522703 127.141219,2.41104768 72.2246999,39.7931469 Z" id="Fill-15-Copy-4" fill="#E4E6EF" transform="translate(109.318561, 72.518391) rotate(240.000000) translate(-109.318561, -72.518391) "></path>
+        <rect id="Rectangle-42" stroke="#2F313B" stroke-width="2" fill="#FFFFFF" x="20" y="52" width="38" height="16"></rect>
+        <rect id="Rectangle-45" fill="#2F313B" x="24" y="59" width="19" height="2"></rect>
+        <rect id="Rectangle-45-Copy-7" fill="#2F313B" x="58" y="59" width="89" height="2"></rect>
+        <polyline id="Path-117" stroke="#2F313B" stroke-width="2" points="47 59 49 61 53 57"></polyline>
+        <rect id="Rectangle-42-Copy" stroke="#2F313B" stroke-width="2" fill="#FFFFFF" x="70" y="52" width="38" height="16"></rect>
+        <rect id="Rectangle-45-Copy" fill="#2F313B" x="74" y="59" width="19" height="2"></rect>
+        <polyline id="Path-117-Copy" stroke="#2F313B" stroke-width="2" points="97 59 99 61 103 57"></polyline>
+        <rect id="Rectangle-42-Copy-2" stroke="#2F313B" stroke-width="2" fill="#FFFFFF" x="70" y="74" width="38" height="16"></rect>
+        <rect id="Rectangle-45-Copy-2" fill="#2F313B" x="74" y="81" width="19" height="2"></rect>
+        <polyline id="Path-117-Copy-2" stroke="#2F313B" stroke-width="2" points="97 81 99 83 103 79"></polyline>
+        <rect id="Rectangle-42-Copy-6" stroke="#2F313B" stroke-width="2" fill="#FFFFFF" x="70" y="96" width="38" height="16"></rect>
+        <rect id="Rectangle-45-Copy-6" fill="#2F313B" x="74" y="103" width="19" height="2"></rect>
+        <polyline id="Path-117-Copy-6" stroke="#2F313B" stroke-width="2" points="97 103 99 105 103 101"></polyline>
+        <rect id="Rectangle-42-Copy-4" stroke="#2F313B" stroke-width="2" fill="#FFFFFF" x="120" y="52" width="38" height="16"></rect>
+        <rect id="Rectangle-45-Copy-4" fill="#2F313B" x="124" y="59" width="19" height="2"></rect>
+        <polyline id="Path-117-Copy-4" stroke="#2F313B" stroke-width="2" points="147 59 149 61 153 57"></polyline>
+        <rect id="Rectangle-42-Copy-3" stroke="#2F313B" stroke-width="2" fill="#FFFFFF" x="20" y="74" width="38" height="16"></rect>
+        <rect id="Rectangle-45-Copy-3" fill="#2F313B" x="24" y="81" width="19" height="2"></rect>
+        <polyline id="Path-117-Copy-3" stroke="#2F313B" stroke-width="2" points="47 81 49 83 53 79"></polyline>
+        <path d="M172.09694,81 C172.83195,75.3574675 177.657105,71 183.5,71 C189.342895,71 194.16805,75.3574675 194.90306,81 L195.5,81 C200.19442,81 204,84.8055796 204,89.5 C204,94.1944204 200.19442,98 195.5,98 L168.5,98 C163.80558,98 160,94.1944204 160,89.5 C160,84.8055796 163.80558,81 168.5,81 L172.09694,81 Z" id="Combined-Shape" stroke="#2F313B" stroke-width="2" fill="#FFFFFF"></path>
+        <path d="M140,72 L140,89.0293864 L158.000023,89.0293864" id="Path-118" stroke="#2F313B" stroke-width="2" stroke-dasharray="2,2"></path>
+        <polyline id="Path-117-Copy-5" stroke="#2F313B" stroke-width="2" points="178 86 181 89 188 82"></polyline>
+    </g>
+</svg>
