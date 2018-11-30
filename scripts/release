@@ -17,7 +17,7 @@ echo "<html>" >> index.html
 echo "<head></head>" >> index.html
 echo "<body>" >> index.html
 echo "<h1>Public Assets</h1>" >> index.html
-gsutil ls -r gs://semaphore-public-assets/public | sed 's/gs:\//https:\/\/storage.googleapis.com/' | tail -n +2 | while read -r line; do echo "<a href='$line'>$line</a>"; done >> index.html
+gsutil ls -r gs://semaphore-public-assets/public | sed 's/gs:\//https:\/\/storage.googleapis.com/' | tail -n +2 | while read -r line; do echo "<div><a href='$line'>$line</a></div>"; done >> index.html
 echo "</body>" >> index.html
 echo "</html>" >> index.html
 
