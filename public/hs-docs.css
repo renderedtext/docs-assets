@@ -23,7 +23,7 @@ body, input, button, textarea, select {
 
     background-image: url(https://storage.googleapis.com/semaphore-public-assets/public/docs-search-bg.svg);
     background-repeat: no-repeat;
-    background-position: center 0;
+    background-position: center 12px;
 }
 
 #docsSearch h1 {
@@ -157,7 +157,7 @@ footer p a {
 #mainNav .brand span {
 	display: inline-block;
 	text-indent: -9000px;
-	width: 260px;
+	width: 232px;
 	height: 30px;
 	background: url(https://storage.googleapis.com/semaphore-public-assets/public/docs-logo.svg) no-repeat 0 0;
   background-size: 100%;
