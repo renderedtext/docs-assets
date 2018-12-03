@@ -25,6 +25,11 @@ body, input, button, textarea, select {
     background-repeat: no-repeat;
     background-position: center 0;
 }
+
+#docsSearch h1 {
+  display: none;
+}
+
 #searchBar .search-query {
 	background: #fff;
 	border-color: transparent;
