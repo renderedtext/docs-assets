@@ -159,7 +159,7 @@ footer p a {
 	text-indent: -9000px;
 	width: 260px;
 	height: 23px;
-	background: url(path/to/image) no-repeat 0 0;
+	background: url(https://storage.googleapis.com/semaphore-public-assets/public/docs-logo.svg) no-repeat 0 0;
 	background-size: 100%;
 }
 
