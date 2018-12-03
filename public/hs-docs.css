@@ -99,6 +99,11 @@ pre code {
   font-weight: bold;
 }
 
+.contentWrapper p.descrip {
+  font-size: 18px;
+  margin: 8px 0 18px;
+  color: #7c7888;
+
 .articleList li {
   font-size: 18px;
   margin: 1em 0;
