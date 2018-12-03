@@ -8,6 +8,18 @@ body, input, button, textarea, select {
 
 .navbar .btn-navbar .icon-bar {
   background: #fff;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+
+.navbar .brand {
+  padding-left: 11px;
+}
+
+@media (max-width: 768px)
+.navbar .brand {
+    padding-left: 11px;
 }
 
 .navbar .nav li a {
