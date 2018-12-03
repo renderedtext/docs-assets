@@ -60,6 +60,7 @@ body, input, button, textarea, select {
 
 #sidebar form .search-query {
   box-shadow: none;
+  border-radius: 0;
 }
 
 #fullArticle p, #fullArticle ul, #fullArticle ol, #fullArticle li, #fullArticle div, #fullArticle blockquote, #fullArticle dd, #fullArticle table {
