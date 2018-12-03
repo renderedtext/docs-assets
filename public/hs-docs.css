@@ -154,8 +154,13 @@ footer p a {
   color: #7c7888;
 }
 
-.navbar .brand img{
-  width: 260px;
+#mainNav .brand span {
+	display: inline-block;
+	text-indent: -9000px;
+	width: 260px;
+	height: 23px;
+	background: url(path/to/image) no-repeat 0 0;
+	background-size: 100%;
 }
 
 .contentWrapper {
