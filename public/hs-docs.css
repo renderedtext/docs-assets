@@ -156,6 +156,12 @@ pre code {
   display: none;
 }
 
+@media (min-width: 1120px) {
+  #sidebar {
+    padding-left: 11px;
+  }
+}
+
 #sidebar h3 {
   text-transform: none;
   font-size: 18px;
