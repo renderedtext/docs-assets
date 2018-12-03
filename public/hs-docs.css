@@ -84,8 +84,15 @@ pre code {
   overflow: auto;
 }
 
-#fullArticle ul {
-  margin: 12px 0 12px 24px;
+#fullArticle h2 a,
+#fullArticle h3 a,
+#fullArticle h4 a,
+#fullArticle h5 a {
+  color: #16171d;
+}
+
+#fullArticle ul ul {
+  margin: 12px 0 18px 24px;
 }
 
 .contentWrapper h1 {
