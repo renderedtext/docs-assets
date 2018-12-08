@@ -146,11 +146,12 @@ pre code {
   min-height: 260px;
 }
 
-#category-56 { background-image: url(https://storage.googleapis.com/semaphore-public-assets/public/docs-guided-tour.svg); }
-#category-59 { background-image: url(https://storage.googleapis.com/semaphore-public-assets/public/docs-use-cases.svg); }
-#category-58 { background-image: url(https://storage.googleapis.com/semaphore-public-assets/public/docs-programming-languages.svg); }
-#category-57 { background-image: url(https://storage.googleapis.com/semaphore-public-assets/public/docs-environment.svg); }
-#category-48 { background-image: url(https://storage.googleapis.com/semaphore-public-assets/public/docs-reference.svg); }
+#category-56  { background-image: url(https://storage.googleapis.com/semaphore-public-assets/public/docs-guided-tour.svg); }
+#category-59  { background-image: url(https://storage.googleapis.com/semaphore-public-assets/public/docs-use-cases.svg); }
+#category-58  { background-image: url(https://storage.googleapis.com/semaphore-public-assets/public/docs-programming-languages.svg); }
+#category-57  { background-image: url(https://storage.googleapis.com/semaphore-public-assets/public/docs-environment.svg); }
+#category-48  { background-image: url(https://storage.googleapis.com/semaphore-public-assets/public/docs-reference.svg); }
+#category-107 { background-image: url(https://storage.googleapis.com/semaphore-public-assets/public/docs-account-management.svg); }
 
 .category-list .category p {
   color: #7c7888;

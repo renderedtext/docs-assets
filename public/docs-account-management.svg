@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="220px" height="149px" viewBox="0 0 220 149" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>docs-account-management</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="docs-account-management" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M126.095125,49.1677816 C100.16806,42.358466 39.0757166,36.4008749 37.5970815,60.518424 C36.5480105,77.6294879 54.7373932,82.7333482 67.5470129,85.0674503 C77.0702019,86.8027161 97.5870604,94.3250341 110.223668,111.150077 C130.991851,138.801926 160.864626,132.813486 172.231832,120.988622 C193.337168,99.0335567 179.471971,63.1863289 126.095125,49.1677816 Z" id="Fill-17-Copy-9" fill="#E4E6EF" transform="translate(109.608665, 87.031755) scale(-1, 1) rotate(129.000000) translate(-109.608665, -87.031755) "></path>
+        <circle id="Oval-19-Copy" stroke="#2F313B" stroke-width="2" fill="#FFFFFF" stroke-linejoin="round" cx="108" cy="79" r="37"></circle>
+        <circle id="Oval-19" stroke="#2F313B" stroke-width="2" fill="#FFFFFF" stroke-linejoin="round" cx="108" cy="79" r="32"></circle>
+        <circle id="Oval-19-Copy-2" stroke="#2F313B" stroke-width="2" fill="#FFFFFF" stroke-linejoin="round" cx="108" cy="79" r="27"></circle>
+        <circle id="Oval-19-Copy-3" stroke="#2F313B" stroke-width="2" fill="#FFFFFF" stroke-linejoin="round" cx="101" cy="79" r="4"></circle>
+        <path d="M104,79 L119,79" id="Line-8" stroke="#2F313B" stroke-width="2" fill="#FFFFFF" stroke-linejoin="round"></path>
+        <path d="M116,79 L116,84" id="Line-8-Copy" stroke="#2F313B" stroke-width="2" fill="#FFFFFF" stroke-linejoin="round"></path>
+        <path d="M112,79 L112,83" id="Line-8-Copy-2" stroke="#2F313B" stroke-width="2" fill="#FFFFFF" stroke-linejoin="round"></path>
+    </g>
+</svg>
