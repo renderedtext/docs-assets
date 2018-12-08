@@ -5,11 +5,11 @@
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="docs-environment" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M105.428703,37.7124431 C71.6334371,4.11081841 7.40182744,39.7282924 38.0715335,84.829195 C70.3052606,132.22896 145.743205,77.7911007 105.428703,37.7124431" id="Fill-7" fill="#E4E6EF"></path>
-        <rect id="Rectangle-52-Copy" stroke="#2F313B" stroke-width="2" fill="#FFFFFF" x="75" y="51" width="70" height="70" rx="16"></rect>
-        <rect id="Rectangle-52-Copy-2" stroke="#2F313B" stroke-width="2" fill="#FFFFFF" x="80" y="56" width="60" height="60" rx="12"></rect>
-        <rect id="Rectangle-52-Copy-3" stroke="#2F313B" stroke-width="2" fill="#FFFFFF" x="85" y="61" width="50" height="50" rx="8"></rect>
-        <rect id="Rectangle-52-Copy-13" stroke="#2F313B" stroke-width="2" fill="#FFFFFF" x="90" y="66" width="40" height="40" rx="4"></rect>
-        <polygon id="Path-114" fill="#2F313B" points="111 77 105 88 110 88 109 95 115 85 110 85"></polygon>
+        <path d="M105.428703,28.7124431 C71.6334371,-4.88918159 7.40182744,30.7282924 38.0715335,75.829195 C70.3052606,123.22896 145.743205,68.7911007 105.428703,28.7124431" id="Fill-7" fill="#E4E6EF"></path>
+        <rect id="Rectangle-52-Copy" stroke="#2F313B" stroke-width="2" fill="#FFFFFF" x="75" y="42" width="70" height="70" rx="16"></rect>
+        <rect id="Rectangle-52-Copy-2" stroke="#2F313B" stroke-width="2" fill="#FFFFFF" x="80" y="47" width="60" height="60" rx="12"></rect>
+        <rect id="Rectangle-52-Copy-3" stroke="#2F313B" stroke-width="2" fill="#FFFFFF" x="85" y="52" width="50" height="50" rx="8"></rect>
+        <rect id="Rectangle-52-Copy-13" stroke="#2F313B" stroke-width="2" fill="#FFFFFF" x="90" y="57" width="40" height="40" rx="4"></rect>
+        <polygon id="Path-114" fill="#2F313B" points="111 68 105 79 110 79 109 86 115 76 110 76"></polygon>
     </g>
 </svg>
