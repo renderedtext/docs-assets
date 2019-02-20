@@ -6,10 +6,4 @@ Languages:
 
 - YAML
 
-Plugins:
-
-- Line Highlight
-- Line Numbers
-- Autolinker
-
 [prism-download]: https://prismjs.com/download.html
