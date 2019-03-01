@@ -81,10 +81,11 @@ body, input, button, textarea, select {
 }
 
 #fullArticle code {
-  padding: 2px 6px;
-  white-space: normal;
-  color: #494956;
-  background-color: #f0f0f5;
+  /* see https://github.com/semaphoreci/docs/issues/321 */
+  /* padding: 2px 6px; */
+  /* white-space: normal; */
+  /* color: #494956; */
+  background-color: #f0f0f5; */
   border: none;
 }
 
