@@ -2,6 +2,10 @@ body, input, button, textarea, select {
   font-family: poynter-gothic-text, poyntergothictext,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+.container-fluid {
+  max-width: 1180px;
+}
+
 .navbar .navbar-inner {
   padding: 1em;
 }
@@ -117,7 +121,9 @@ pre code {
 
 .articleList li {
   font-size: 18px;
-  margin: 1em 0;
+  margin: .75em 0;
+  padding-top: .75em;
+  border-top: 1px solid #e0e0e0;
 }
 
 .category-list {
