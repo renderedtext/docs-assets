@@ -177,10 +177,13 @@ pre code {
   display: none;
 }
 
-@media (min-width: 1107px) {
+#sidebar {
+  background: #f0f2f5;
+  padding: 20px;
+}
+
+@media (min-width: 768px) {
   #sidebar {
-    background: #f0f2f5;
-    padding: 20px;
     position: sticky;
     top: 30px;
   }
