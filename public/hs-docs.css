@@ -85,7 +85,7 @@ code {
 
 #fullArticle pre, #fullArticle code {
   font-size: 14px;
-  font-family: Consolas,Menlo,monospace;
+  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace;
 }
 
 #fullArticle pre {
@@ -127,7 +127,7 @@ pre code {
 
 .contentWrapper p.descrip {
   font-size: 18px;
-  margin: 8px 0 18px;
+  margin: 8px 0 36px;
   color: #7c7888;
 }
 
