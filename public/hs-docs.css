@@ -71,6 +71,10 @@ body, input, button, textarea, select {
   font-size: 18px;
 }
 
+#fullArticle table tbody tr:nth-child(odd) {
+  background-color: #f7f7f9;
+}
+
 #fullArticle pre, #fullArticle code {
   font-size: 14px;
   font-family: Consolas,Menlo,monospace;
