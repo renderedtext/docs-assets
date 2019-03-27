@@ -76,7 +76,11 @@ body, input, button, textarea, select {
 }
 
 #fullArticle table tbody tr:nth-child(odd) {
-  background-color: #f5f7f9;
+  background-color: #f4f6f8;
+}
+
+code {
+  background-color: #f4f6f8;
 }
 
 #fullArticle pre, #fullArticle code {
@@ -300,7 +304,7 @@ textarea:focus, input:focus, input[type=text]:focus, input[type=password]:focus,
 /* Prism theme overrides */
 
 :not(pre) > code[class*="language-"], pre[class*="language-"] {
-  background: #f5f7f9 !important;
+  background: #f4f6f8 !important;
 }
 
 code[class*="language-"], pre[class*="language-"] {
