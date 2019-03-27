@@ -179,18 +179,23 @@ pre code {
 
 @media (min-width: 1107px) {
   #sidebar {
-    padding-left: 11px;
+    background: #f0f2f5;
+    padding: 20px;
+    position: sticky;
+    top: 30px;
   }
 }
 
 #sidebar h3 {
   text-transform: none;
-  font-size: 18px;
+  font-size: 16px;
+  padding-top: 12px;
+  border-top: 1px solid #ceced6;
 }
 
 #sidebar .nav-list a {
-  color: #0046bb;
-  font-size: 18px;
+  color: #7c838e;
+  font-size: 16px;
 }
 
 #sidebar .nav-list a:hover {
