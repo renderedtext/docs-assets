@@ -185,8 +185,12 @@ pre code {
 }
 
 #sidebar .nav-list a {
-  color: #7c7888;
+  color: #0046bb;
   font-size: 18px;
+}
+
+#sidebar .nav-list a:hover {
+  text-decoration: underline;
 }
 
 footer p {
@@ -266,6 +270,10 @@ textarea:focus, input:focus, input[type=text]:focus, input[type=password]:focus,
 
 #sidebar form .search-query:focus, #sidebar form .search-query:focus:invalid {
   border-color: rgba(34, 63, 220, 0.7);
+}
+
+.pagination {
+  font-size: 18px;
 }
 
 /* Prism theme overrides */
