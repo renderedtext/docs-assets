@@ -2,6 +2,10 @@ body, input, button, textarea, select {
   font-family: poynter-gothic-text, poyntergothictext,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+#main-content {
+  padding: 32px 0 0 0;
+}
+
 .container-fluid {
   max-width: 1180px;
 }
@@ -180,6 +184,7 @@ pre code {
 #sidebar {
   background: #f0f2f5;
   padding: 20px;
+  margin-bottom: 20px;
 }
 
 @media (min-width: 768px) {
@@ -194,6 +199,10 @@ pre code {
   font-size: 16px;
   padding-top: 12px;
   border-top: 1px solid #ceced6;
+}
+
+#sidebar .nav-list {
+  margin-bottom: 0;
 }
 
 #sidebar .nav-list a {
