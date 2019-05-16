@@ -72,7 +72,7 @@ body {
 
 #sidebar form .search-query {
   box-shadow: none;
-  border-radius: 0;
+  border-radius: 5px;
 }
 
 #fullArticle p, #fullArticle ul, #fullArticle ol, #fullArticle li, #fullArticle div, #fullArticle blockquote, #fullArticle dd, #fullArticle table {
@@ -158,7 +158,11 @@ pre code {
 .category-list .category {
   border: 0;
   background: #fff;
+  background-repeat: no-repeat;
+  background-position: center 30px;
+  min-height: 260px;
   box-shadow: 0 2px 4px 0 rgba(0,0,0,.16), 0 0 0 1px rgba(0,0,0,.08);
+  border-radius: 5px;
 }
 
 .category-list .category:hover {
@@ -166,12 +170,6 @@ pre code {
   background-repeat: no-repeat;
   background-position: center 30px;
   box-shadow: 0 2px 4px 0 rgba(0,0,0,.16), 0 0 0 1px rgba(0,0,0,.2);
-}
-
-.category-list .category {
-  background-repeat: no-repeat;
-  background-position: center 30px;
-  min-height: 260px;
 }
 
 #category-56  { background-image: url(https://storage.googleapis.com/semaphore-public-assets/public/docs-guided-tour.svg); }
@@ -253,6 +251,7 @@ footer p a {
 .contentWrapper {
   border: 0;
   box-shadow: 0 2px 4px 0 rgba(0,0,0,.16), 0 0 0 1px rgba(0,0,0,.08);
+  border-radius: 5px;
 }
 
 .articleFoot p, .articleFoot time {
