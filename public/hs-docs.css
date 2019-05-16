@@ -2,6 +2,10 @@ body, input, button, textarea, select {
   font-family: poynter-gothic-text, poyntergothictext,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+body {
+  background: #f4f6f8;
+}
+
 #main-content {
   padding: 32px 0 0 0;
 }
@@ -117,6 +121,11 @@ pre code {
   color: #16171d;
 }
 
+#fullArticle h5 {
+  font-size: 18px;
+  font-style: italic;
+}
+
 #fullArticle ul ul {
   margin: 12px 0 18px 24px;
 }
@@ -187,7 +196,7 @@ pre code {
 
 #sidebar {
   background: #f4f6f8;
-  padding: 20px;
+  padding: 0 20px;
   margin-bottom: 20px;
 }
 
