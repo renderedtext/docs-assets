@@ -111,9 +111,10 @@ code {
   border: none;
 }
 
-pre code {
+pre > code {
   white-space: pre !important;
   overflow: auto;
+  padding: 0 !important;		
 }
 
 #fullArticle h2 a,
