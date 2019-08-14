@@ -100,6 +100,8 @@ code {
   white-space: pre;
   overflow: auto;
   word-wrap: normal;
+  border: 1px solid #d2d4d6;
+  border-radius: 5px;
 }
 
 #fullArticle code {
