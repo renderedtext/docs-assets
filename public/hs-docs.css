@@ -36,7 +36,7 @@ body {
 
 .navbar .nav li a {
   font-size: 18px;
-  color: #a0ffb5;
+  color: #c1ffcf;
 }
 
 #docsSearch {
@@ -322,4 +322,12 @@ textarea:focus, input:focus, input[type=text]:focus, input[type=password]:focus,
 
 code[class*="language-"], pre[class*="language-"] {
   text-shadow: none !important;
+}
+
+#serp-dd .result a {
+  color: #0d49b5;
+}
+
+#serp-dd .result a:hover {
+  color: #222;
 }
