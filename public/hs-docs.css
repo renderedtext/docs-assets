@@ -328,7 +328,7 @@ code[class*="language-"], pre[class*="language-"] {
   color: #222;
 }
 
-#serp-dd .result a:hover,
-#serp-dd .result.active {
-  color: #0d49b5;
+#serp-dd .result a:hover {
+  background-color: #0d49b5;
+  color: #fff;
 }
